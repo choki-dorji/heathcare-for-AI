@@ -1,0 +1,4 @@
+after cloing this reposity navigate to assignment folder
+then run command npm install --legacy-peer-deps
+after that run the command npm run dev
+and in brower visit localhost:3000
